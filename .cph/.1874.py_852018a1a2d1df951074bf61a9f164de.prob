@@ -1,0 +1,1 @@
+{"name":"Local: 1874","url":"/workspaces/byeventhorizon/1874.py","tests":[{"id":1752903289013,"input":"5\n1\n2\n5\n3\n4","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/byeventhorizon/1874.py","group":"local","local":true}

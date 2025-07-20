@@ -1,0 +1,1 @@
+{"name":"Local: 18258","url":"/workspaces/byeventhorizon/18258.py","tests":[{"id":1752906197596,"input":"6\npush 1\npop\nsize\npush 1\npush 3\nf","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/byeventhorizon/18258.py","group":"local","local":true}
